@@ -21,7 +21,7 @@ const (
 )
 
 func main() {
-	var a int = 111
+	var a = 111
 	println(a)
 	var b = 222
 	println(b)

@@ -8,8 +8,8 @@ func Byte() {
 
 	fmt.Printf("%c\n", a)
 
-	var s string = "this is test"
-	var sb []byte = []byte(s)
+	var s = "this is test"
+	var sb = []byte(s)
 
 	println(s)
 	println(sb)
